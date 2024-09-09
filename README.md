@@ -10,7 +10,7 @@
 <p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"  /></p>
 
 ## 🚀 About Me :
-- 🎓 Telecommunications Engineering graduate, pursuing a Master’s in **Computer Engineering** with a focus on **Cloud Computing** and **DevOps**.
+- 🎓 Telecommunications Engineering graduate, pursuing a Master’s in **Computer Software Engineering** with a focus on **Cloud Computing** and **DevOps**.
 - 💼 **Cloud & DevOps Engineer** at **Nethermind**, specializing in **CI/CD pipelines**, **infrastructure automation**, and **cloud platforms**.
 - 🛠️ Experienced with **AWS**, **Azure**, **Terraform**, and **Kubernetes** for building scalable cloud solutions.
 - 🌱 Continuously learning new technologies and exploring areas like **Zero-Knowledge Proofs** and **Rust Programming**.
