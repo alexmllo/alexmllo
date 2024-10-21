@@ -7,8 +7,6 @@
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"  /></p>
-
 ## 🚀 About Me :
 - 🎓 Telecommunications Engineering graduate, pursuing a Master’s in **Computer Software Engineering** with a focus on **Cloud Computing** and **DevOps**.
 - 💼 **Cloud & DevOps Engineer** at **Nethermind**, specializing in **CI/CD pipelines**, **infrastructure automation**, and **cloud platforms**.
