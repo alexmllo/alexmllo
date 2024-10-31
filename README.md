@@ -10,7 +10,7 @@
 ## 🚀 About Me :
 - 🎓 Telecommunications Engineering graduate, pursuing a Master’s in **Computer Software Engineering** with a focus on **Cloud Computing** and **DevOps**.
 - 💼 **Cloud & DevOps Engineer** at **Nethermind**, specializing in **CI/CD pipelines**, **infrastructure automation**, and **cloud platforms**.
-- 🛠️ Experienced with **AWS**, **Azure**, **Terraform**, and **Kubernetes** for building scalable cloud solutions.
+- 🛠️ Experienced with **AWS**, **Terraform**, and **Python** for building scalable cloud solutions.
 - 🌱 Continuously learning new technologies and exploring areas like **Zero-Knowledge Proofs** and **Rust Programming**.
 - 📫 Reach me at: amitjansllorach1@gmail.com
 - 🌍 Barcelona-based, open to remote collaborations on exciting projects.
