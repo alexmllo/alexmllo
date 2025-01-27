@@ -9,7 +9,7 @@
 
 ## 🚀 About Me :
 - 🎓 Telecommunications Engineering graduate, pursuing a Master’s in **Computer Software Engineering** with a focus on **Cloud Computing** and **DevOps**.
-- 💼 **Cloud & DevOps Engineer** at **Nethermind**, specializing in **CI/CD pipelines**, **infrastructure automation**, and **cloud platforms**.
+- 💼 **Cloud & DevOps Engineer** at **IThinkUPC**, specializing in **CI/CD pipelines**, **infrastructure automation**, and **cloud platforms**.
 - 🛠️ Experienced with **AWS**, **Terraform**, and **Python** for building scalable cloud solutions.
 - 🌱 Continuously learning new technologies and exploring areas like **Zero-Knowledge Proofs** and **Rust Programming**.
 - 📫 Reach me at: amitjansllorach1@gmail.com
@@ -33,6 +33,4 @@
 </div>
 
 ## 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexmllo&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmllo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
