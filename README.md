@@ -1,14 +1,11 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/alexmll"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=alexmllo&style=flat-square&color=blue" alt="Profile Views"></p>
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ## 🚀 About Me :
-- 🎓 Telecommunications Engineering graduate, pursuing a Master’s in **Computer Software Engineering** with a focus on **Cloud Computing** and **DevOps**.
+- 🎓 Telecommunications Engineering graduate, pursuing a Master’s in **Computer Engineering**.
 - 💼 **Cloud & DevOps Engineer** at **IThinkUPC**, specializing in **CI/CD pipelines**, **infrastructure automation**, and **cloud platforms**.
 - 🛠️ Experienced with **AWS**, **Terraform**, and **Python** for building scalable cloud solutions.
 - 🌱 Continuously learning new technologies and exploring areas like **Zero-Knowledge Proofs** and **Rust Programming**.
@@ -27,7 +24,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
