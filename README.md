@@ -4,7 +4,7 @@
 
 ## 🚀 About Me :
 - 🎓 Telecommunications Engineering graduate, and Master in **Computer Engineering**.
-- 💼 **Cloud & DevOps Engineer** at **Airbus Space and Defence**, specializing in **CI/CD pipelines**, **critical infrastructure**, and **cloud platforms**.
+- 💼 **Cloud & DevOps Engineer** at **Airbus Space & Defence**, specializing in **CI/CD**, **critical infrastructure**, and **cloud platforms**.
 - 🛠️ Experienced with **AWS**, **Ansible**, and **Kubernetes** for building scalable infrastructure solutions.
 - 🌱 Continuously learning new technologies and exploring areas like **Zero-Knowledge Proofs** and **Rust**.
 - 📫 Reach me at: amitjansllorach1@gmail.com
